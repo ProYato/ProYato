@@ -1,4 +1,4 @@
-<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Subaru+;From+Delhi%2C+India;Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/cosmic_freak" /></a>
+<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/cosmic_freak" /></a>
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
