@@ -38,6 +38,14 @@
 
 <h1> <img src="https://raw.githubusercontent.com/proyato/proyato/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Yato Spotify" width="75%" />](https://open.spotify.com/user/3147zqots32jqlmaenz5atdkxuem)
+<!--
+Spotify
+-->
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31g3qe65he5vuqibcwjkkijuksay" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g3qe65he5vuqibcwjkkijuksay&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
