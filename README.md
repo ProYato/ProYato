@@ -47,7 +47,7 @@ Spotify
 
 <div align="center">
   <a href="https://t.me/proyato" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=BQCIB--6McbjsqOfd-fuBm943t6QtrAN7DKTwbfVVHsWssfOJkPEK7qh1Cy8Hvdc_ExpmltFqo7CK8Wn09FxveYuQYvqIUSFVq_KMCpGpirvVkCYUQy9EQWMY8NneTtrvxJSg-Bl5W5tMQYF1CyTF7KP-pnfgvfPmfqgKE6u-p7vjAqWQoAnPJyXO0IZAIXSmCDwetHciGQQziPCDpZYvlPG11hvS3HoCdfDKacQzxjuphDR8uhCMKyuZPYvRBG18l3VxQXKEf_7A_6ITElE6v_GTTHNa5BSxfs3&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
