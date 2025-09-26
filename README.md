@@ -10,8 +10,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yato;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
 
-
-![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
+<h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"</img></h2>
 
 <p align="center">
   <a href="https://t.me/proyato"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
