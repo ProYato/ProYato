@@ -5,10 +5,16 @@
 <a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
 <br><br>
 
-<p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/proyato/count.svg" />
-</p>
+## **🧋Cutie Counter**
+<a href=""><img align="right" width=400 src="https://count.getloli.com/get/@Rawknee-69?theme=rule34"></a>
+<a href=""><img align="left" width="100" src="./images/cuite.png"></a>
+
+```yaml
+People who visit my profile :<3.
+
+Hehe~ another cutie has been caught stalking my profile 😏.
+```
+<!-- <br><br><br><br> -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yato;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
 
