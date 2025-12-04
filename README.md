@@ -1,5 +1,7 @@
 <a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/cosmic_freak" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yato;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
+
 ## **☕ About me**
 
 <a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
@@ -15,8 +17,6 @@ People who visit my profile :<3.
 Hehe~ another cutie has been caught stalking my profile 😏.
 ```
 <!-- <br><br><br><br> -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yato;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
 
 <p align="center">
   <a href="https://t.me/proyato"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
