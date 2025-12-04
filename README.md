@@ -2,7 +2,8 @@
 
 ## **☕ About me**
 
-<a href="https://t.me/proyato"><img align="right" width="400" src="https://lanyard.kyrie25.dev/api/778460273073848342?imgStyle=circle&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://rawknee-69.github.io/prof/"><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Srijan. My hobbies include playing games, watching anime, reading manga, and occasionally tinkering with random stuff, like touching some grass.**
+<br><br>
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
