@@ -1,7 +1,8 @@
 <a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/cosmic_freak" /></a>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## **☕ About me**
+
+<a href="https://t.me/proyato"><img align="right" width="400" src="https://lanyard.kyrie25.dev/api/778460273073848342?imgStyle=circle&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
