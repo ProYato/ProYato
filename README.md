@@ -50,3 +50,8 @@ Spotify
 </div>
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
+
+<div style="text-align: center;">
+  <a href="">
+    <img align="center" width="100" src="./images/done.png">
+  </a>
