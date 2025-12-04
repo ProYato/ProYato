@@ -2,7 +2,7 @@
 
 ## **☕ About me**
 
-<a href="https://rawknee-69.github.io/prof/"><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Srijan. My hobbies include playing games, watching anime, reading manga, and occasionally tinkering with random stuff, like touching some grass.**
+<a href="proyato.com"><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
 <br><br>
 
 <p align="center">
