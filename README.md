@@ -2,7 +2,7 @@
 
 ## **☕ About me**
 
-<a href="proyato.com"><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
+<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
 <br><br>
 
 <p align="center">
