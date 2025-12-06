@@ -27,6 +27,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 
 <h3>
 <a href=""><img align="left" width="100" src="./images/cry.png"></a>
+
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
   
 
