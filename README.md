@@ -56,6 +56,10 @@ Spotify
   </a>
 </div>
 
+<a href="https://github.com/codeflix-bots">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=ProYato&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+</a>
+
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
 
 <div style="text-align: center;">
