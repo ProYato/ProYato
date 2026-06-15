@@ -50,17 +50,11 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 Spotify
 -->
 
-<div align="center">
-  <a href="https://t.me/proyato" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-<a href="https://github.com/codeflix-bots">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=codeflix-bots&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
-</a>
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Yato Spotify" width="75%" />](https://open.spotify.com/user/3147zqots32jqlmaenz5atdkxuem)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com//)
 
 <div style="text-align: center;">
   <a href="">
