@@ -44,8 +44,6 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <a href="https://telegram.me/codeflix_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 
-<h1> <img src="https://raw.githubusercontent.com/proyato/proyato/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
-
 <!--
 Spotify
 -->
