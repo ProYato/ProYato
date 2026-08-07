@@ -68,6 +68,18 @@ Spotify
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Proyato&radius=16&theme=github-dark&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proyato/proyato/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proyato/proyato/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/proyato/proyato/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+</picture>
+
+</div>
+
 ###
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:1a1a2e,100:0d1117&height=110&section=footer" width="100%"/>
