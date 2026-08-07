@@ -47,14 +47,6 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <a href="https://telegram.me/codeflix_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 
-<!--
-Spotify
--->
-
-<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
-
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Yato Spotify" width="75%" />](https://open.spotify.com/user/31d3yopoe7or2z26t574yywhk3gq)
-
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com//)
 
 <div style="text-align: center;">
