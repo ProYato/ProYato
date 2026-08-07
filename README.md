@@ -31,10 +31,25 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <h3>
 <a href=""><img align="left" width="100" src="./images/cry.png"></a>
 
-<h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
-  
+---
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Codeflix-bots&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/sewxiy) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codeflix-bots&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/sewxiy)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"/> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=proyato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proyato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=proyato&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=facc15&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9" height="165"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
     
 
     
