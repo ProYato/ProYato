@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00f5ff&height=200&section=header&text=YATO%20MISHRA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Noob%20Copy%20Paster%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Bot%20Automation&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00f5ff&height=200&section=header&text=Yato%20Mishra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Noob%20Copy%20Paster%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Bot%20Automation&descAlignY=60&descSize=16" width="100%"/>
 
 <a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/ProYato" /></a>
 
