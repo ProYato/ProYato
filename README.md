@@ -49,16 +49,19 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com//)
 
-<div style="text-align: center;">
-  <a href="">
-    <img align="center" width="100" src="./images/done.png">
-  </a>
+---
 
-  <br clear="both">
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="26"/> Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Proyato&radius=16&theme=github-dark&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=proyato&bg_color=0d1117&color=00f5ff&line=a855f7&point=facc15&area=true&hide_border=true&radius=6" width="97%"/>
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
 
 ## 🐍 Contribution Snake
 
