@@ -33,25 +33,6 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"/> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs 
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=proyato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proyato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=proyato&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=facc15&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9" height="165"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-    
-
     
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
@@ -63,32 +44,6 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 </p>
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com//)
-
----
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="26"/> Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=proyato&bg_color=0d1117&color=00f5ff&line=a855f7&point=facc15&area=true&hide_border=true&radius=6" width="97%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proyato/proyato/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proyato/proyato/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/proyato/proyato/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-</picture>
-
-</div>
 
 ###
 <!-- FOOTER -->
